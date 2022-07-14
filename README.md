@@ -11,7 +11,7 @@ To open this project on your machine it is necessary to have the Java SDK instal
 such as Eclipse, IntelliJ IDEA or NetBeans. Download it, configure it on the machine and open the files.
 You need to create a file to store the defined metrics.The metrics are: the minimum value, the maximum 
 value and the rate, respectively. The name of the file is imposto.app, and it must be created inside
-a folder called studies.
+a folder called estudos.
 
 
 <h1>Authors</h1>
