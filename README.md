@@ -10,7 +10,8 @@ much tax you should pay. It was developed in Java, HTML and CSS.
 How to use
 To open this project on your machine it is necessary to have the Java SDK installed and some IDE, 
 such as Eclipse, IntelliJ IDEA or NetBeans. Download it, configure it on the machine and open the files.
-You need to create a file to store the defined metrics.
+You need to create a file to store the defined metrics.The metrics are: the minimum value, the maximum 
+value and the rate, respectively.
 
 
 Authors
