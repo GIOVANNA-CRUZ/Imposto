@@ -1,0 +1,16 @@
+# Imposto
+JAVA, HTML and CSS
+
+Description and Funcionalities
+This project has the function of calculating income tax, based on defined metrics (rates).
+On the first page it asks for the person's salary, and on the second page, it tells you how
+much tax you should pay. It was developed in Java, HTML and CSS.
+
+
+How to use
+To open this project on your machine it is necessary to have the Java SDK installed and some IDE, 
+such as Eclipse, IntelliJ IDEA or NetBeans. Download it, configure it on the machine and open the files.
+
+
+Authors
+Giovanna Cruz dos Santos(only me)
