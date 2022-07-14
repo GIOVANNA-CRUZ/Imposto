@@ -1,5 +1,4 @@
 # Imposto
-JAVA, HTML and CSS
 
 <h1>Description and Funcionalities</h1>
 This project has the function of calculating income tax, based on defined metrics (rates).
