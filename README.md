@@ -23,6 +23,11 @@ You need to create a file to store the defined metrics.The metrics are: the mini
 value and the rate, respectively. The name of the file is imposto.app, and it must be created inside
 a folder called estudos.
 
+<h1>Funcionalities</h1>
+
+![Page1](images/imposto1.png)
+![Page2](images/imposto2.png)
+
 
 <h1>Authors</h1>
 Giovanna Cruz dos Santos(only me)
